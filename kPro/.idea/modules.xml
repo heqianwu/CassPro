@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hspboot/hspboot.iml" filepath="$PROJECT_DIR$/../hspboot/hspboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kPro.iml" filepath="$PROJECT_DIR$/kPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kmaven/kmaven.iml" filepath="$PROJECT_DIR$/../kmaven/kmaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kspboot/kspboot.iml" filepath="$PROJECT_DIR$/../kspboot/kspboot.iml" />
+    </modules>
+  </component>
+</project>
